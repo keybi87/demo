@@ -1,3 +1,0 @@
-#demo Project README
-
-Sample
